@@ -1,4 +1,10 @@
 ### Olá sou Humberto 👋, tenho 32 anos, trabalho como desenvolvedor web na residência de TI da JFRN. Sou Dev freelancer nas horas vagas e estou concluíndo a pós-graduação em Tecnologia de Informação como Desenvolvedor Web pelo IMD/UFRN 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-freitasfilho/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/humberto.freitas.50)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/humbertofilho8/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humbertofilho8@gmail.com)
+
 ### Essas são minhas stacks:
 ### FRONTEND
 
