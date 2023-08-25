@@ -1,4 +1,4 @@
-### Olá sou Humberto 👋, tenho 32 anos trabalho como desenvolvedor web na JFRN como residente no setor de TI. Sou Dev freelancer nas horas vagas e estou concluíndo a pós-graduação em Tecnologia de Informação como Desenvolvedor Web pelo IMD/UFRN 
+### Olá sou Humberto 👋, tenho 32 anos, trabalho como desenvolvedor web na residência de TI da JFRN. Sou Dev freelancer nas horas vagas e estou concluíndo a pós-graduação em Tecnologia de Informação como Desenvolvedor Web pelo IMD/UFRN 
 ### Essas são minhas stacks:
 ### FRONTEND
 
@@ -27,7 +27,7 @@
 
 ### IDEs
 
-IntelliJ IDEA	![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) 	![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB) 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### SYSTEMs
