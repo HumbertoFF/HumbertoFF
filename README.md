@@ -1,4 +1,4 @@
-### Olá sou Humberto 👋, tenho 32 anos, trabalho como Analista Desenvolvedor na ESIG atuando nos sistemas SIG (SIGAA,SIPAC,SIGRH,SIGADMIN) de intituições públicas, também faço parte de projetos de pesquisa em desenvolvimento web e sou especialista pós-graduado em Tecnologia de Informação na área de desenvolvimento Web pelo IMD/UFRN. Também atuo como Dev freelancer nas horas vagas e essas são minhas redes sociais.
+### Olá sou Humberto 👋, tenho 32 anos, trabalho como Analista Desenvolvedor na ESIG atuando nos sistemas SIG de intituições públicas, também faço parte de projetos de pesquisa em desenvolvimento web e sou especialista pós-graduado em Tecnologia de Informação na área de desenvolvimento Web pelo IMD/UFRN. Também atuo como Dev freelancer nas horas vagas e essas são minhas redes sociais.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-freitasfilho/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/humberto.freitas.50)
