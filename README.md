@@ -1,4 +1,4 @@
-### Olá sou Humberto 👋, tenho 34 anos, seu como Desenvolvedor com experiência de 3 anos, pós-graduado em Tecnologia de Informação na área de desenvolvimento Web pelo IMD/UFRN. Também atuo como Dev freelancer nas horas vagas e essas são minhas redes sociais [Clique para ser redirecionado].
+### Olá sou Humberto 👋!, tenho 34 anos, seu como desenvolvedor com mais de 3 anos de experiência, pós-graduado em Tecnologia de Informação na área de desenvolvimento Web pelo IMD/UFRN. Atuo como Dev freelancer e sou analista desenvolvedor na ESIG Software; nas horas vagas gosto de estudar novas tecnologias e linguagens, seja bem vindo e essas são minhas redes sociais [Clique para ser redirecionado].
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-freitasfilho/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/humberto.freitas.filho/)
