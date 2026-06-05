@@ -34,10 +34,11 @@ Abaixo estão os principais repositórios públicos que demonstram minhas capaci
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| [🔗 Kafka Microsserviços](https://github.com) | Arquitetura orientada a eventos usando Spring Boot e Apache Kafka para comunicação assíncrona entre microsserviços. | Java, Spring Boot, Kafka |
-| [🔗 Portfolio Landing Page](https://github.com) | Portfólio pessoal responsivo com suporte bilíngue (PT/EN), efeitos visuais em Canvas e pipeline automatizado de CI/CD. | HTML5, CSS3, JS, GitHub Actions |
-| [🔗 Servidor WebSocket](https://github.com) | Implementação de um servidor WebSocket para comunicação bidirecional em tempo real de baixa latência. | Java, WebSockets |
-| [🔗 Java API REST](https://github.com) | Estruturação de uma API RESTful completa seguindo as melhores práticas de design, rotas e manipulação de dados. | Java, Spring Boot, REST |
+| [🔗 Kafka Microsserviços](https://github.com/HumbertoFF/Kafka-microsservi-os-springboot) | Arquitetura orientada a eventos utilizando Spring Boot e Apache Kafka para comunicação assíncrona entre microsserviços. | Java, Spring Boot, Kafka |
+| [🔗 OCORRENCIAS-API-RESTful](https://github.com/HumbertoFF/OCORRENCIAS-API-REST) | API REST de Ocorrências é um sistema backend robusto desenvolvido em Java 17 com Spring Boot, projetado para gerenciar registros de ocorrências (eventos, incidentes ou solicitações) de clientes, vinculando informações pessoais, endereços e documentação visual através de fotos. | Java, Spring Boot, PostgreSQL, JWT (JSON Web Token), Docker + Docker Compose, Swagger/OpenAPI, MinIO, Flyway|
+| [🔗 Servidor WebSocket](https://github.com/HumbertoFF/servidor-webSocket) | Implementação de um servidor WebSocket para comunicação bidirecional em tempo real de baixa latência. | Java, WebSockets |
+| [🔗 Java API REST](https://github.com/HumbertoFF/JAVA-API-REST) | Estruturação de uma API RESTful completa seguindo as melhores práticas de design, rotas e manipulação de dados. | Java, Spring Boot, REST |
+| [🔗 Portfolio Landing Page](https://github.com/HumbertoFF/PortfolioGit) | Portfólio pessoal responsivo com suporte bilíngue (PT/EN), efeitos visuais em Canvas e pipeline automatizado de CI/CD. | HTML5 |
 
 ---
 
