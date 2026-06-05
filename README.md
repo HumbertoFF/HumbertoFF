@@ -1,39 +1,61 @@
-### Olá sou Humberto 👋! Tenho 35 anos, sou desenvolvedor web com 4 anos de experiência, pós-graduado em Tecnologia de Informação na área de desenvolvimento Web pelo IMD/UFRN. Atuo como Dev freelancer e sou analista desenvolvedor na ESIG Software; nas horas vagas gosto de estudar novas tecnologias e linguagens, seja bem vindo e essas são minhas redes sociais [Clique para ser redirecionado].
+# Olá, sou o Humberto Freitas! 👋
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-freitasfilho/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/humberto.freitas.filho/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humbertofilho8@gmail.com)
+Análise e Desenvolvimento de Sistemas | Java • Spring Boot • Angular
 
-### Essas são minhas stacks:
-### FRONTEND
+Desenvolvedor Full Stack com mais de 4 anos de experiência no desenvolvimento, evolução e sustentação de sistemas corporativos e governamentais de larga escala, atendendo de 50 mil a 100 mil usuários ativos por instituição. Sou pós-graduado em TI (Desenvolvimento Web) pelo IMD/UFRN.
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)   
+---
 
-### BACKEND
+## 🛠️ Tecnologias e Competências
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 💻 Backend
+![Java](https://shields.io)
+![Spring Boot](https://shields.io)
+![Java EE](https://shields.io)
+![Apache Kafka](https://shields.io)
 
-### BD
+### 🎨 Frontend & Bancos
+![Angular](https://shields.io)
+![TypeScript](https://shields.io)
+![PostgreSQL](https://shields.io)
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🚀 DevOps & Práticas
+![Docker](https://shields.io)
+![Jenkins](https://shields.io)
+![GitLab CI/CD](https://shields.io)
+![GitHub Actions](https://shields.io)
 
-### FERRAMENTAS
+---
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 	![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+## 🚀 Projetos em Destaque
 
-### TESTs
-
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-
-### FERRAMENTAS PARA PROJETOS
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
-
-### IDEs
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) 	![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB) 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+Abaixo estão os principais repositórios públicos que demonstram minhas capacidades de arquitetura e código limpo:
 
 
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| [🔗 Kafka Microsserviços](https://github.com) | Arquitetura orientada a eventos usando Spring Boot e Apache Kafka para comunicação assíncrona entre microsserviços. | Java, Spring Boot, Kafka |
+| [🔗 Portfolio Landing Page](https://github.com) | Portfólio pessoal responsivo com suporte bilíngue (PT/EN), efeitos visuais em Canvas e pipeline automatizado de CI/CD. | HTML5, CSS3, JS, GitHub Actions |
+| [🔗 Servidor WebSocket](https://github.com) | Implementação de um servidor WebSocket para comunicação bidirecional em tempo real de baixa latência. | Java, WebSockets |
+| [🔗 Java API REST](https://github.com) | Estruturação de uma API RESTful completa seguindo as melhores práticas de design, rotas e manipulação de dados. | Java, Spring Boot, REST |
 
+---
+
+## 💼 Resumo de Atuação Profissional
+
+* **ESIG Software e Consultoria (Atual):** Analista Desenvolvedor Java atuando na sustentação e evolução de sistemas corporativos críticos para universidades federais (50k a 100k usuários ativos).
+* **Justiça Federal do RN (JFRN):** Desenvolvimento Full Stack (Angular + Spring Boot) do projeto *Acesso Fácil*, focado no atendimento ao cidadão através de microsserviços e APIs REST.
+* **Projetos Autônomos (Freelancer):** Coautor e desenvolvedor do **BeCheck**, sistema de saúde pública para gerenciamento de cadastros de pré-natal (registrado no INPI e publicado na Revista Interfaces).
+
+---
+
+## 🌐 Conecte-se Comigo
+
+Sinta-se à vontade para explorar meus repositórios ou entrar em contato através dos links abaixo:
+
+
+| Plataforma | Link Direto |
+| :--- | :--- |
+| 💼 **LinkedIn** | [Acesse meu perfil no LinkedIn](https://linkedin.com) |
+| 🌐 **Website Portfólio** | [Visite humbertoff.github.io/PortfolioGit](https://github.io) |
+| 📧 **E-mail** | humbertofilho8@gmail.com |
