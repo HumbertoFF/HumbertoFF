@@ -57,6 +57,6 @@ Sinta-se à vontade para explorar meus repositórios ou entrar em contato atrav�
 
 | Plataforma | Link Direto |
 | :--- | :--- |
-| 💼 **LinkedIn** | [Acesse meu perfil no LinkedIn](https://linkedin.com) |
-| 🌐 **Website Portfólio** | [Visite humbertoff.github.io/PortfolioGit](https://github.io) |
+| 💼 **LinkedIn** | [Acesse meu perfil no LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/humberto-freitasfilho/) |
+| 🌐 **Website Portfólio** | [Visite humbertoff.github.io/PortfolioGit](https://humbertoff.github.io/PortfolioGit/) |
 | 📧 **E-mail** | humbertofilho8@gmail.com |
