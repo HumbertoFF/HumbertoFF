@@ -9,21 +9,13 @@ Desenvolvedor Full Stack com mais de 4 anos de experiência no desenvolvimento, 
 ## 🛠️ Tecnologias e Competências
 
 ### 💻 Backend
-![Java](https://shields.io)
-![Spring Boot](https://shields.io)
-![Java EE](https://shields.io)
-![Apache Kafka](https://shields.io)
+Java | Spring Boot 
 
 ### 🎨 Frontend & Bancos
-![Angular](https://shields.io)
-![TypeScript](https://shields.io)
-![PostgreSQL](https://shields.io)
+Angular | React | TypeScript | PostgreSQL | MySQL
 
 ### 🚀 DevOps & Práticas
-![Docker](https://shields.io)
-![Jenkins](https://shields.io)
-![GitLab CI/CD](https://shields.io)
-![GitHub Actions](https://shields.io)
+Docker | Jenkins | GitLab CI/CD | GitHub Actions
 
 ---
 
